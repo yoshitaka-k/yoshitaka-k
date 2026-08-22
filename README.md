@@ -1,6 +1,6 @@
 # おはこんばんにちは
 
-**よしたか**（YSTK）です。しがない元プログラマー。  
+**よしたか**（YSTK）です。しがない元プログラマー。
 気まぐれに何かアップするかもしれませんし、しないかもしれません。
 
 いまは [Rust](https://www.rust-lang.org/) の勉強がてら、ターミナルで遊べるトランプゲームや、自分用の小さなツールを作っています。
@@ -27,23 +27,23 @@
 
 ### ツール / シミュレーション
 
-| リポジトリ | なにこれ |
-| --- | --- |
-| [keiga](https://github.com/yoshitaka-k/keiga) | 軽画。ドロップした画像をその場で最適化する、自分用ツール |
-| [game_of_life](https://github.com/yoshitaka-k/game_of_life) | egui / eframe で作ったライフゲーム |
-| [tbh_skill_simulator](https://github.com/yoshitaka-k/tbh_skill_simulator) | TaskBarHer のスキルシミュレータ |
+| リポジトリ | なにこれ | Latest |
+| --- | --- | --- |
+| [keiga](https://github.com/yoshitaka-k/keiga) | 軽画。ドロップした画像をその場で最適化する、自分用ツール | [![latest](https://img.shields.io/github/v/release/yoshitaka-k/keiga?label=)](https://github.com/yoshitaka-k/keiga/releases/latest) |
+| [game_of_life](https://github.com/yoshitaka-k/game_of_life) | egui / eframe で作ったライフゲーム | [![latest](https://img.shields.io/github/v/release/yoshitaka-k/game_of_life?label=)](https://github.com/yoshitaka-k/game_of_life/releases/latest) |
+| [tbh_skill_simulator](https://github.com/yoshitaka-k/tbh_skill_simulator) | TaskBarHer のスキルシミュレータ | [![latest](https://img.shields.io/github/v/release/yoshitaka-k/tbh_skill_simulator?label=)](https://github.com/yoshitaka-k/tbh_skill_simulator/releases/latest) |
 
 ### トランプゲーム（Rust / ターミナル）
 
 ババ抜きから始めて、ゲームだけ差し替えながら増やしています。途中から Ratatui の TUI にも手を出しています。
 
-| リポジトリ | なにこれ |
-| --- | --- |
-| [old_maid](https://github.com/yoshitaka-k/old_maid) | ババ抜き。最初に完成させたやつ |
-| [scoundrel](https://github.com/yoshitaka-k/scoundrel) | Scoundrel。ソロダンジョン |
-| [blackjack](https://github.com/yoshitaka-k/blackjack) | ブラックジャック。チップのセーブあり |
-| [card_capture](https://github.com/yoshitaka-k/card_capture) | Card Capture。手札の合計で敵カードを捕獲する |
-| [high_and_low](https://github.com/yoshitaka-k/high_and_low) | High & Low |
+| リポジトリ | なにこれ | Latest |
+| --- | --- | --- |
+| [old_maid](https://github.com/yoshitaka-k/old_maid) | ババ抜き。最初に完成させたやつ | [![latest](https://img.shields.io/github/v/release/yoshitaka-k/old_maid?label=)](https://github.com/yoshitaka-k/old_maid/releases/latest) |
+| [scoundrel](https://github.com/yoshitaka-k/scoundrel) | Scoundrel。ソロダンジョン | [![latest](https://img.shields.io/github/v/release/yoshitaka-k/scoundrel?label=)](https://github.com/yoshitaka-k/scoundrel/releases/latest) |
+| [blackjack](https://github.com/yoshitaka-k/blackjack) | ブラックジャック。チップのセーブあり | [![latest](https://img.shields.io/github/v/release/yoshitaka-k/blackjack?label=)](https://github.com/yoshitaka-k/blackjack/releases/latest) |
+| [card_capture](https://github.com/yoshitaka-k/card_capture) | Card Capture。手札の合計で敵カードを捕獲する | [![latest](https://img.shields.io/github/v/release/yoshitaka-k/card_capture?label=)](https://github.com/yoshitaka-k/card_capture/releases/latest) |
+| [high_and_low](https://github.com/yoshitaka-k/high_and_low) | High & Low | [![latest](https://img.shields.io/github/v/release/yoshitaka-k/high_and_low?label=)](https://github.com/yoshitaka-k/high_and_low/releases/latest) |
 
 ### ゲームメモ
 
