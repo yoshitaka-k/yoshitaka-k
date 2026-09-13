@@ -29,7 +29,7 @@
 
 | リポジトリ | なにこれ | Latest |
 | --- | --- | --- |
-| [gacho](https://github.com/yoshitaka-k/gacho) | Gacho（画帳） 自分用、CBZビューアツール |  |
+| [gacho](https://github.com/yoshitaka-k/gacho) | Gacho（画帳） 自分用、CBZビューアツール | [![latest](https://img.shields.io/github/v/release/yoshitaka-k/gacho?label=)](https://github.com/yoshitaka-k/gacho/releases/latest) |
 | [keiga](https://github.com/yoshitaka-k/keiga) | Keiga（軽画） 自分用、ドロップした画像をその場で最適化するツール | [![latest](https://img.shields.io/github/v/release/yoshitaka-k/keiga?label=)](https://github.com/yoshitaka-k/keiga/releases/latest) |
 | [game_of_life](https://github.com/yoshitaka-k/game_of_life) | egui / eframe で作ったライフゲーム | [![latest](https://img.shields.io/github/v/release/yoshitaka-k/game_of_life?label=)](https://github.com/yoshitaka-k/game_of_life/releases/latest) |
 | [tbh_skill_simulator](https://github.com/yoshitaka-k/tbh_skill_simulator) | TaskBarHer のスキルシミュレータ | [![latest](https://img.shields.io/github/v/release/yoshitaka-k/tbh_skill_simulator?label=)](https://github.com/yoshitaka-k/tbh_skill_simulator/releases/latest) |
